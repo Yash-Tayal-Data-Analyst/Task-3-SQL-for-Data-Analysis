@@ -1,28 +1,29 @@
-# Task-3-SQL-for-Data-Analysis
+🏥 Hospital Data Analysis using PostgreSQL
+In this project, I performed an exploratory data analysis on a hospital dataset using PostgreSQL. I created the necessary table schema, imported the data into the database, and used SQL queries to derive meaningful insights.
 
-I have made analysis on the Hospital Dataset in PostgreSQL.
-I created the table in the SQL and import the Data in SQL and made analysis on that Data.I have found some insights from the data by writting the queries in the SQL
+🔍 Analysis Objectives
+The following key business questions guided the analysis:
 
-Questions:-
+Total Number of Patients
 
---1.Total Number of Patients
+Average Number of Doctors per Hospital
 
---2.Average Number of Doctors per Hospital
+Top 3 Departments with the Highest Number of Patients
 
---3 Top 3 Departments with the Highest Number of Patients
+Hospital with the Maximum Medical Expenses
 
---4 Hospital with the Maximum Medical Expenses
+Daily Average Medical Expenses
 
---5 Daily Average Medical Expenses
+Longest Hospital Stay
 
---6 Longest Hospital Stay
+Total Patients Treated Per City
 
---7 Total Patients Treated Per City
+Average Length of Stay Per Department
 
---8 Average Length of Stay Per Department
+Department with the Lowest Number of Patients
 
---9 Identify the Department with the Lowest Number of Patients
+Monthly Medical Expenses Report
 
---10 Monthly Medical Expenses Report
+📊 Insights
+By writing and executing SQL queries for the questions above, I uncovered several insights related to patient distribution, resource utilization, and hospital efficiency.
 
-i have made analysis by keeping in mind that questions and found the insights
